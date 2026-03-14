@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+venv/
+bot_data.pickle
+.DS_Store
